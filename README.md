@@ -4,7 +4,7 @@ A decentralized marketplace for fashion NFTs built on Stacks blockchain using Cl
 
 ## Features
 
-- **NFT Minting**: Fashion designers can mint their creations as unique NFTs
+- **NFT Minting**: Fashion designers can mint their creations as unique NFTs.
 - **Marketplace Trading**: Secure buying and selling with STX payments
 - **Royalty System**: Automatic royalty distribution to original designers
 - **Metadata Storage**: Comprehensive item information including category and rarity
